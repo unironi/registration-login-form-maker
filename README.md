@@ -1,2 +1,2 @@
 # registration-login-form-maker
-Registration/Login form
+simple registration/login form
